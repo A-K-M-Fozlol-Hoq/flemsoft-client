@@ -5,7 +5,7 @@ import TopHeader from './TopHeader';
 import './Header.css';
 const Header = () => {
   return (
-    <div>
+    <div style={{ boxShadow: '0px 15px 10px -15px #111' }}>
       <div style={{ backgroundColor: '#000' }}>
         <TopHeader></TopHeader>
         <MiddleHeader></MiddleHeader>

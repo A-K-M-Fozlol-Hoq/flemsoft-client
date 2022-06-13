@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
   margin: 0;
   padding: 0;
 }
@@ -7,6 +6,9 @@
 .btn-brand{
   background-color: #68D237 !important;
   color: #fff;
+}
+.txt-brand{
+  color: #68D237;
 }
 .btn-brand:hover{
   background-color: #68d237d0 !important;
