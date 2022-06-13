@@ -6,13 +6,16 @@ import { BiEnvelope } from 'react-icons/bi';
 const TopHeader = () => {
   return (
     <div
-      style={{ color: '#fff', padding: '8px 0 15px' }}
+      style={{
+        color: '#fff',
+        padding: '8px 0 15px',
+        width: '80%',
+        marginLeft: '10%',
+      }}
       className="top-header-wrapper"
     >
       <div
         style={{
-          width: '80%',
-          marginLeft: '10%',
           display: 'flex',
           justifyContent: 'space-between',
         }}
