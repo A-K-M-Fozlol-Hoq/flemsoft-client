@@ -4,9 +4,12 @@
   padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.btn-brand{
+  background-color: #68D237 !important;
+  color: #fff;
+}
+.btn-brand:hover{
+  background-color: #68d237d0 !important;
 }
 
 @media (prefers-reduced-motion: no-preference) {
