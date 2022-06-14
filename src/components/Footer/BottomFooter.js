@@ -33,7 +33,7 @@ const BottomFooter = () => {
             boxShadow: '0px 15px 10px -15px #111',
           }}
         >
-          <img src={blank} alt="" />
+          <img src={blank} style={{ borderRadius: '5px' }} alt="" />
           <div style={{ padding: '5px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between' }}>
               <div style={{ fontSize: '12px' }}>A customer has just bought</div>
