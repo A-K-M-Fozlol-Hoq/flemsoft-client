@@ -6,7 +6,7 @@ const Declaration = () => {
       style={{
         width: '80%',
         marginLeft: '10%',
-        padding: '40px 0 20px',
+        padding: '40px 0 40px',
         display: 'grid',
         gridTemplateColumns: '1fr 1fr',
         gridGap: '30PX',
