@@ -5,12 +5,14 @@ import BottomFooter from './components/Footer/BottomFooter';
 import NewProducts from './components/NewProducts/NewProducts';
 import Services from './components/Services/Services';
 import FeaturedProducts from './components/FeaturedProducts/FeaturedProducts';
+import Declaration from './components/Declaration/Declaration';
 function App() {
   return (
     <div className="App">
       <Header></Header>
       <NewProducts></NewProducts>
       <FeaturedProducts></FeaturedProducts>
+      <Declaration></Declaration>
       <Services></Services>
       <Footer></Footer>
       <BottomFooter></BottomFooter>
