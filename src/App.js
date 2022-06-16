@@ -7,14 +7,16 @@ import Services from './components/Services/Services';
 import FeaturedProducts from './components/FeaturedProducts/FeaturedProducts';
 import Declaration from './components/Declaration/Declaration';
 import PromoProducts from './components/PromoProducts/PromoProducts';
+import Technologies from './components/Technologies/Technologies';
 function App() {
   return (
     <div className="App">
-      {/* <Header></Header>
+      <Header></Header>
       <NewProducts></NewProducts>
-      <FeaturedProducts></FeaturedProducts> */}
+      <FeaturedProducts></FeaturedProducts>
       <Declaration></Declaration>
       <PromoProducts></PromoProducts>
+      <Technologies></Technologies>
       <Services></Services>
       <Footer></Footer>
       <BottomFooter></BottomFooter>

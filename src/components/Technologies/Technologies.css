@@ -1,0 +1,12 @@
+.technology-products-wrapper .before-after-hover:hover .before-hover{
+    display: none;
+}
+.technology-products-wrapper .before-after-hover .after-hover{
+    display: none;
+}
+.technology-products-wrapper .before-after-hover:hover .after-hover{
+    display: block;
+}
+.technology-products-wrapper .tech-single-card-wrapper:hover .product-title{
+    color:red;
+}
